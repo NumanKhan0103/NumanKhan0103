@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full-stack Engineer<br>collabrat full stack project or open source project<br>Now Foucs on learing AI and Devops
+I'm **Said Numan Bacha**, a Full Stack Engineer from Pakistan. I build, deploy and run production apps with Laravel, Node.js, Next.js and Python, and ship them with Docker, CI/CD and AWS.<br><br>🔧 **What I work on:** government platforms and SaaS products (Laravel APIs + Next.js frontends), AI features (OCR and LLM pipelines in Python with FastAPI and spaCy), and DevOps (Dockerizing real apps, GitHub Actions and Jenkins pipelines, AWS).<br><br>🌱 **Currently learning:** Kubernetes, Terraform and AWS Solutions Architect (doing #90DaysOfDevOps).<br><br>📫 **Reach me:** saidnumanbacha@gmail.com
 
 
 ## 🌐 Socials:
